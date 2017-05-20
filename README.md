@@ -21,3 +21,7 @@ We can use some food image datasets Like
 
 # How to train it?
   Convolutional Neural Networks (ConvNets or CNNs) are a category of Neural Networks that have proven very effective in areas such as image recognition and classification. ConvNets have been successful in identifying faces, objects and traffic signs apart from powering vision in robots and self driving cars.    
+
+
+
+    ![Alt text](/1-z7hd8FZeI_eodazwIapvAw.png?raw=true "Optional Title")
