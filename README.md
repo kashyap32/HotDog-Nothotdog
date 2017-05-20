@@ -28,3 +28,5 @@ We can use some food image datasets Like
 
 
     ![Alt text](/CNN.jpg?raw=true "Optional Title")
+
+![Alt text](/model.png?raw=true "Optional Title")
