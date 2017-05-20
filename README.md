@@ -7,9 +7,12 @@
 ![Alt text](/cat.jpg?raw=true "Optional Title")
 
 # Collect the data
-  # Training Data
+  <h3> Training Data</h3>
+  
   1- HotDogs images
+  
   2- NotHotdogs Images(Random images)
+  
   
 We can use some food image datasets Like
     
@@ -24,4 +27,4 @@ We can use some food image datasets Like
 
 
 
-    ![Alt text](/1-z7hd8FZeI_eodazwIapvAw.png?raw=true "Optional Title")
+    ![Alt text](/CNN.png?raw=true "Optional Title")
